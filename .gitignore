@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Chat History
+aula_03/chroma_langchain_db/*
+!aula_03/chroma_langchain_db/.gitkeep

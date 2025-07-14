@@ -12,3 +12,11 @@ faiss-cpu
 langchain_groq
 pytrends
 langgraph
+pytube
+pinecone
+langchain-pinecone
+streamlit
+youtube_transcript_api
+openai-whisper
+yt-dlp
+langchain-chroma
