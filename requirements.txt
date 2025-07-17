@@ -17,6 +17,11 @@ pinecone
 langchain-pinecone
 streamlit
 youtube_transcript_api
-openai-whisper
 yt-dlp
 langchain-chroma
+fastapi
+uvicorn
+pydantic
+plotly
+llama-parse
+llama-cloud-services
