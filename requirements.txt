@@ -1,6 +1,7 @@
 numpy 
 pandas
 scikit-learn
+umap-learn
 matplotlib
 torch
 python-dotenv
